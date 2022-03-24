@@ -1,0 +1,18 @@
+.about {
+  min-height: 55vh;
+  background-color: rgb(253, 237, 212);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-family: "Roboto";
+}
+
+.about img {
+  height: 40vh;
+  border-radius: 20px;
+}
+
+.about p {
+  width: 40%;
+  font-size: 1.25vw;
+}

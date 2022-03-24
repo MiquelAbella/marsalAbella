@@ -1,0 +1,15 @@
+.separator{
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    background-color: rgb(216, 214, 212);
+    width: 100%;
+}
+
+.separator-text{
+    color: rgb(80, 80, 80);
+    font-size: 6vw;
+    text-align: center;
+    width: 100%;
+    font-family: "Roboto";
+}
