@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/marsalAbella/static/css/main.2ec19459.css",
-    "main.js": "/marsalAbella/static/js/main.7e32d352.js",
+    "main.css": "/marsalAbella/static/css/main.4c6a88d7.css",
+    "main.js": "/marsalAbella/static/js/main.f6ec706e.js",
     "static/media/Cadaqués.png": "/marsalAbella/static/media/Cadaqués.117884c45f152178f542.png",
+    "static/media/uskBackground.jpeg": "/marsalAbella/static/media/uskBackground.b70950336e5fab4db5d6.jpeg",
+    "static/media/Camps Elisis.png": "/marsalAbella/static/media/Camps Elisis.836e726d97bdf31e6fce.png",
+    "static/media/Central Park.png": "/marsalAbella/static/media/Central Park.0c9967cf2aedb6017945.png",
+    "static/media/Hurghada.png": "/marsalAbella/static/media/Hurghada.e53562154ca5d22fd374.png",
     "static/media/newsPaper.jpg": "/marsalAbella/static/media/newsPaper.6ddae52bec154abb700d.jpg",
+    "static/media/pinetell.png": "/marsalAbella/static/media/pinetell.0835e794f3e284aa3a72.png",
+    "static/media/Taüll.png": "/marsalAbella/static/media/Taüll.a80cb8115740417313ea.png",
     "static/media/playmobil.jpg": "/marsalAbella/static/media/playmobil.446155fc808a4050c8d1.jpg",
     "static/media/Aqüeducte Tarragona.jpg": "/marsalAbella/static/media/Aqüeducte Tarragona.bca00a838fbc598f12b7.jpg",
     "static/media/laPaeria.jpg": "/marsalAbella/static/media/laPaeria.d90dc2cfce2be3cd2d11.jpg",
@@ -12,31 +18,25 @@
     "static/media/Dragon Khan.jpg": "/marsalAbella/static/media/Dragon Khan.9c3bffb179ba2ecbbed5.jpg",
     "static/media/docuSport.jpg": "/marsalAbella/static/media/docuSport.597f2b69886234fdbfa6.jpg",
     "static/media/bibiUndTina.jpg": "/marsalAbella/static/media/bibiUndTina.ac10b8259e378ddf80f5.jpg",
-    "static/media/uskBackground.jpeg": "/marsalAbella/static/media/uskBackground.c75faec42a2fb9dc3869.jpeg",
-    "static/media/Camps Elisis.jpg": "/marsalAbella/static/media/Camps Elisis.0ce3c4571161a79f5c9b.jpg",
     "static/media/cavalls.jpg": "/marsalAbella/static/media/cavalls.8cc324c55b80a69c9b66.jpg",
     "static/media/Miting.png": "/marsalAbella/static/media/Miting.9bd7c9eee3d7856896d2.png",
     "static/media/comicBackground.jpg": "/marsalAbella/static/media/comicBackground.afa6b8d214ef9b2f53bd.jpg",
-    "static/media/Central Park.jpg": "/marsalAbella/static/media/Central Park.1bcb3aae16d5387ac700.jpg",
-    "static/media/Hurghada.jpg": "/marsalAbella/static/media/Hurghada.3f954acfa8e23318f401.jpg",
     "static/media/homeBackground.jpg": "/marsalAbella/static/media/homeBackground.1518c093f30078184826.jpg",
     "static/media/araLleida.jpg": "/marsalAbella/static/media/araLleida.444a8979788471d7e1df.jpg",
     "static/media/revistaPinzell.jpg": "/marsalAbella/static/media/revistaPinzell.6e205bef15105faecdd4.jpg",
     "static/media/hospital.jpg": "/marsalAbella/static/media/hospital.0719f729bb5803f033fb.jpg",
     "static/media/disney.jpg": "/marsalAbella/static/media/disney.9e8a6328e81a18d03ba3.jpg",
-    "static/media/pinetell.jpg": "/marsalAbella/static/media/pinetell.75937c0fdd311995f259.jpg",
     "static/media/pixador.jpg": "/marsalAbella/static/media/pixador.3c1fe32e3e984da3e4e0.jpg",
-    "static/media/Taüll.jpg": "/marsalAbella/static/media/Taüll.4c39a138ce9a86e1e0dc.jpg",
     "static/media/bumni.jpg": "/marsalAbella/static/media/bumni.b6aa29b9899f58866be0.jpg",
     "static/media/fotoMarsal.jpeg": "/marsalAbella/static/media/fotoMarsal.44bf1e936db4c4a95cfc.jpeg",
     "static/media/thePope.jpg": "/marsalAbella/static/media/thePope.b54b9d34c835a98737e5.jpg",
     "static/media/marçalada.jpg": "/marsalAbella/static/media/marçalada.fcc5b0670c472cb54468.jpg",
     "index.html": "/marsalAbella/index.html",
-    "main.2ec19459.css.map": "/marsalAbella/static/css/main.2ec19459.css.map",
-    "main.7e32d352.js.map": "/marsalAbella/static/js/main.7e32d352.js.map"
+    "main.4c6a88d7.css.map": "/marsalAbella/static/css/main.4c6a88d7.css.map",
+    "main.f6ec706e.js.map": "/marsalAbella/static/js/main.f6ec706e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ec19459.css",
-    "static/js/main.7e32d352.js"
+    "static/css/main.4c6a88d7.css",
+    "static/js/main.f6ec706e.js"
   ]
 }
